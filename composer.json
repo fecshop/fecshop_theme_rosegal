@@ -1,0 +1,34 @@
+{  
+      "name": "fecshop/theme_rosegal",  
+      "description": "Yii2 fecshop theme rosegal",  
+      "keywords": [  
+        "yii2",  
+        "fecshop",
+        "theme"
+      ],  
+      "homepage": "https://github.com/fecshop/fecshop_theme_rosegal",  
+      "type": "yii2-extension",  
+      "license": "MIT",  
+      "support": {  
+        "source": "https://github.com/fecshop/fecshop_theme_rosegal"  
+      },  
+      "authors": [  
+        {  
+          "name": "Terry",  
+          "email": "2358269014@qq.com"  
+        }  
+      ],  
+      "minimum-stability": "stable",  
+      "require": {  
+        "fancyecommerce/fecshop": ">=1.3.2.1"  
+         
+      },  
+      "autoload": {  
+        "psr-4": {  
+          "fecshop\\theme\\rosegal": ""  
+        }  
+      },  
+      "config": {  
+        "process-timeout": 1800  
+      }  
+    }
