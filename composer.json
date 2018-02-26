@@ -20,7 +20,7 @@
       ],  
       "minimum-stability": "stable",  
       "require": {  
-        "fancyecommerce/fecshop": ">=1.3.2.1"  
+        "fancyecommerce/fecshop": ">=1.3.0.0"  
          
       },  
       "autoload": {  
