@@ -10,3 +10,5 @@ composer require --prefer-dist fecshop/theme_rosegal
 ```
 "fecshop/theme_rosegal": "~1.0.1"
 ```
+
+hehe
