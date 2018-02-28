@@ -1,6 +1,13 @@
-# fecshop_theme_rosegal
-fecshop theme rosegal
+### fecshop 模板 rosegal
 
+
+> 这是一个比较简单的模板，以composer库包的方式发布，该模板主要是为了学习如何做一个fecshop的模板。
+> 您自己做的库包，也可以不用composer库包的方式发布，不过composer库包的方式是推荐的方式。
+
+[演示地址](https://fecshop.appfront.fancyecommerce.com/fr/)
+
+
+### composer安装
 ```
 composer require --prefer-dist fecshop/theme_rosegal
 ```
@@ -11,7 +18,7 @@ composer require --prefer-dist fecshop/theme_rosegal
 "fecshop/theme_rosegal": "~1.0.1"
 ```
 
-安装
+配置
 ----
 
 1.添加配置文件
@@ -48,7 +55,12 @@ composer require --prefer-dist fecshop/theme_rosegal
 
 3.添加完成后，就可以访问了
 
+ 
+小结:
 
+fecshop是可扩展的电商系统，大家可以参考这个模板，开发更多的fecshop，
+
+[fecshop制作模板原理](http://www.fecshop.com/doc/fecshop-guide/develop/cn-1.0/guide-fecshop-theme.html)
 
 
 
