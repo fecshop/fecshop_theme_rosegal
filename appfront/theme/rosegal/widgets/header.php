@@ -63,7 +63,9 @@
 			</dl>
             <dl class="">|</dl>
             <dl class="top_currency">
-                Contact Us
+                <a href="<?= Yii::$service->url->getUrl('customer/contacts') ?>" >
+                    Contact Us
+                </a>
             </dl>
 		</div>
 	</div><!--end .top_nav_inner-->

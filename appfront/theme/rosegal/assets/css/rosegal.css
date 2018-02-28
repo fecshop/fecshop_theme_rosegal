@@ -201,7 +201,7 @@ width:auto;
     float: left;
     height: 20px;
     white-space: nowrap;
-    color:#cc0000;
+    color:#da6667;
     
 }
 #js_isNotLogin{
@@ -317,11 +317,84 @@ width:auto;
 .top_nav_left dl{color:#000}
 
 
+button.redBtn, button.redBtn:hover, 
+.onestepcheckout-coupons .add_coupon_submit,
+body .main-container button, body .main-container input[type="submit"]{
+    color: #fff;
+    background-image: url(../images/btn_bg.png); 
+    background-repeat: repeat-x;
+    border-radius: 3px;
+    border: none;
+    font-size: 12px;
+    padding: 8px 12px;
+    font-weight: 700;
+    display: inline-block;
+    max-height: 45px;
+    overflow: hidden;
+    text-align: center;
+    cursor: pointer;
+}
+.onestepcheckout-coupons .add_coupon_submit{
+    line-height: 20px;
+    
+    
+}
+
+button.redBtn em{
+    border:none;
+        display: inline;
+}
+
+button.redBtn span{
+    width: 100%;
+    height: 100%;
+    display: block;
+        background: none;
+    border: none;
+    color: #fff;
+    cursor: pointer;
+    display: block;
+    font-weight: 700;
+    line-height: 30px;
+    padding: 0;
+    white-space: nowrap;
+    font-style: normal;
+    text-transform:uppercase;
+        font-size: 15px;
+} 
 
 
 
 
 
+
+   
+button.redBtn:focus , button.redBtn:active{
+    color: #fff;
+    background-image: url(../images/btn_bg.png);
+    background-repeat: repeat-x;
+    border-radius: 3px;
+    border: none;
+    font-size: 12px;
+    padding: 8px 12px;
+    font-weight: 700;
+    display: inline-block;
+    max-height: 45px;
+    overflow: hidden;
+    text-align: center;
+    cursor: pointer;
+}    
+    
+    
+button.redBtn:hover span{
+	background: none;
+    color: #fff;
+}    
+    
+    
+
+    
+    
 
 
 
