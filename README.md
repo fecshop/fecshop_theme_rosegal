@@ -4,7 +4,7 @@
 > 这是一个比较简单的模板，以composer库包的方式发布，该模板主要是为了学习如何做一个fecshop的模板。
 > 您自己做的库包，也可以不用composer库包的方式发布，不过composer库包的方式是推荐的方式。
 
-[演示地址](https://fecshop.appfront.fancyecommerce.com/fr/)
+[演示地址](http://fecshop.appfront.fancyecommerce.com/fr/)
 
 
 ### composer安装
